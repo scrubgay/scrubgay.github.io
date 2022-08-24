@@ -35,9 +35,10 @@ as well as areas with high distances away from supermarkets - food deserts at sc
 To maximize our utility, we also identified areas with high concentrations of residential units, as many target block groups are also rural or sparsely populated for their size.
 
 <figure>
-    <iframe src="https://ufl.maps.arcgis.com/apps/instant/basic/index.html?appid=ced0e631b3e24240bbcd162660d1b92f" title="Suitable locations for FGS Mobile Pantries via ArcGIS Online"></iframe>
+    <iframe width=100% height=600px src="https://ufl.maps.arcgis.com/apps/instant/basic/index.html?appid=ced0e631b3e24240bbcd162660d1b92f" title="Suitable locations for FGS Mobile Pantries via ArcGIS Online"></iframe>
     <figcaption>
     Suitable locations for FGS Mobile Pantries - ArcGIS Instant Apps. Zoom into the map to see the names of target neighborhoods. Click on the block group to learn more information about its demographics.
+    <a href="https://ufl.maps.arcgis.com/home/item.html?id=ced0e631b3e24240bbcd162660d1b92f">Full screen version</a>
     </figcaption>
 </figure>
 

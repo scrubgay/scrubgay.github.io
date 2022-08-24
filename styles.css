@@ -47,6 +47,10 @@ figure {
 	border-left: 2px var(--liatris) solid;
 }
 
+figcaption {
+    margin-top: 1em;
+}
+
 iframe {
     width: 100%;
     height: 600px;
