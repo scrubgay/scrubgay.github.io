@@ -8,7 +8,7 @@ A mutual aid pantry based in Gainesville, FL, started in its current capacity in
 <img src="/media/renz-fgs.jpg" alt="Renz held by other FGS volunteers">
 </figure>
 
-[Read more]()
+[Read more](/projects/fgs.html)
 [gnvfgs.org](https://gnvfgs.org)
 [@gnvfgs on Instagram](https://instagram.com/gnvfgs)
 
