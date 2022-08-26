@@ -8,8 +8,10 @@ A mutual aid pantry based in Gainesville, FL, started in its current capacity in
 <img src="/media/renz-fgs.jpg" alt="Renz held by other FGS volunteers" loading=lazy>
 </figure>
 
-[Read more](/projects/fgs.html)
+[Read about Free Grocery Store's history](/projects/fgs.html)
+
 [gnvfgs.org](https://gnvfgs.org)
+
 [@gnvfgs on Instagram](https://instagram.com/gnvfgs)
 
 ## Farm 2 Neighbors
@@ -20,7 +22,8 @@ A mutual aid project started in 2020 to divert farm excesses to residents of the
 <img src="/media/renz-brackin-f2n.jpg" alt="Renz and Brackin on the Farm 2 Neighbors truck" loading=lazy>
 </figure>
 
-[Read more](/projects/f2n.html)
+[Read about Farm 2 Neighbors and the Kincaid Loop](/projects/f2n.html)
+
 [@farm2n on Instagram](https://instagram.com/farm2n)
 
 ## Evictions in Alachua County
@@ -31,7 +34,7 @@ A project to find eviction-prone areas and social determinants of rental housing
 <img src="/media/evictions-bg.png" alt="Evictions by block group in Alachua County" loading=lazy>
 </figure>
 
-[Read more](/projects/ac-evictions.html)
+[Read about the spatialization of eviction](/projects/ac-evictions.html)
 
 ## Foodshed of Alachua County
 
@@ -41,10 +44,10 @@ A personal multifaceted project to a) find food deserts and food swamps in Gaine
 <img src="/media/alachua_food-deserts.png" alt="Food deserts of Alachua County" loading=lazy>
 </figure>
 
-[Read more](/projects/ac-foodshed.html)
+[Learn the food deserts and swamps of Gainesville](/projects/ac-foodshed.html)
 
 ## Racialized Impacts of New Construction
 
 Undertaken as an project for my web-mapping class, this is a dashboard that looks at new construction per neighborhood. Currently uses frozen data with demographic data manually added.
 
-[Read more](/projects/gnv-construx.html)
+[Read about upzoning and its effects on black communities](/projects/gnv-construx.html)
