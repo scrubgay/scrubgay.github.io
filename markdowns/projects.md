@@ -20,7 +20,7 @@ A mutual aid project started in 2020 to divert farm excesses to residents of the
 <img src="/media/renz-brackin-f2n.jpg" alt="Renz and Brackin on the Farm 2 Neighbors truck">
 </figure>
 
-[Read more]()
+[Read more](/projects/f2n.html)
 [@farm2n on Instagram](https://instagram.com/farm2n)
 
 ## Evictions in Alachua County
