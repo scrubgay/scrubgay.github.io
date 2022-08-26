@@ -1,0 +1,56 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>renz torres | ac-evictions</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap" rel="stylesheet"> 
+</head>
+<body>
+    <div class="ctn">
+        <header>
+            <img id="banner" src="/media/banner_md.png" alt="Sandhill in Ralph E Simmons">
+            <nav>
+                <code>Renz Torres</code>
+                <a href="/index.html">Home</a>
+                <a href="/cv.html">Curriculum vitae</a>
+                <a href="/projects.html">Projects</a>
+                <a href="/writing.html">Writing</a>
+            </nav>
+        </header>
+        <main> 
+        <h1 id="evictions-of-alachua-county">Evictions of Alachua County</h1>
+<p>At my <small>brief</small> time working at the Alachua County Labor Coalition (ACLC), I began research on neighborhoods and apartment complexes impacted by housing instability (as measured by evictions). The goal was conducting targeted outreach to residents of Gainesville and Alachua County with eviction prevention and facilitating legal action. The research ended up being longer than my time at the ACLC, so I continued eviction research as part of my Geostatistics class project.</p>
+<p>Using a Node.js web scraper written by a Gainesville local, I mined 20 years of eviction data from the Alachua Clerk of Court website. Using tidyverse R, the <a href="https://slu-opengis.github.io/postmastr/">postmastr</a>, and a public county E911 geocoding table, I geocoded 90% of the 34,000 cases.</p>
+<figure>
+    <img src="/media/evictions-bg.png" alt="A map of Alachua County evictions by raw count. On the left, a legend describing the symbology." loading="lazy">
+    <figcaption>
+        A map of evictions summarized by 2020 census block group, in non-normalized raw counts.
+        This image is available as an interactive stand-alone web app that maps race along with evictions. <a href="https://ufl.maps.arcgis.com/apps/instant/countdown/index.html?appid=61a56647b54b4d62b4d24fabdb29de45">Access the app here</a>
+    </figcaption>
+</figure>
+
+<p>I produced a geographically weighted regression model (R-squared = 0.73) on log-transformed eviction counts. It predicts that evictions in an area are positively correlated with higher Hispanic/Latino and Black proportions, and negatively correlated with increased single-family detached housing and proportion of people with income below the poverty level. Higher weight is given to the proportion of Hispanic/Latinos and Black people in a census block group. It predicts as well a south-north increasing impact of Hispanic/Latino proportions and an east-west increasing spatial impact of Black proportions.</p>
+<p><a href="/media/evictions-report.pdf">Download the final write-up</a></p>
+</main>
+        <footer>
+        	<div id="copyleft">
+	    		<h2>Copyleft</h2>
+    	        <p>This content is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt">Creative Commons BY-NC-SA 4.0</a>. Basically, feel free to share, but work must be attributed. Derivatives must be non-commercial and be shared under the same license.</p>
+        	</div>
+            <div id="socials">
+                <h2>elsewhere</h2>
+                <ul>
+                    <li><a href="https://instagram.com/scrubgay">instagram</a></li>
+                    <li><a href="https://github.com/renzst">github</a></li>
+                    <li><a href="https://inaturalist.org/scrubgay">inaturalist</a></li>
+                    <li><a href="mailto:info@renzst.com">email</a></li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+
+</body></html>
