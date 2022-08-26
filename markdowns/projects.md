@@ -47,4 +47,4 @@ A personal multifaceted project to a) find food deserts and food swamps in Gaine
 
 Undertaken as an project for my web-mapping class, this is a dashboard that looks at new construction per neighborhood. Currently uses frozen data with demographic data manually added.
 
-[Read more](/projects/gnv-construx.md)
+[Read more](/projects/gnv-construx.html)
