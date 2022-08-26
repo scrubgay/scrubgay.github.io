@@ -41,10 +41,10 @@ A personal multifaceted project to a) find food deserts and food swamps in Gaine
 <img src="/media/alachua_food-deserts.png" alt="Food deserts of Alachua County" loading=lazy>
 </figure>
 
-[Read more]()
+[Read more](/projects/ac-foodshed.html)
 
 ## Racialized Impacts of New Construction
 
-Undertaken as an URP6278, this is a dashboard that looks at new construction per neighborhood. Currently uses frozen data with demographic data manually added.
+Undertaken as an project for my web-mapping class, this is a dashboard that looks at new construction per neighborhood. Currently uses frozen data with demographic data manually added.
 
-[Read more]()
+[Read more](/projects/gnv-construx.md)
