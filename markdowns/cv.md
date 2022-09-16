@@ -45,6 +45,15 @@ August 2015 - December 2016
 
 ## Experiences
 
+### Minority AIDS Coordinator
+
+*at the Florida Department of Health*
+
+  - Manage linkage-to-care for black and brown people newly diagnosed with HIV
+  - Provide technical assistance to community based organizations that provide HIV- and sexual health-related services
+
+September 2022 and ongoing
+
 ### Founder & Coordinator
 
 *at the [Gainesville Free Grocery Store](https://gnvfgs.org)*
@@ -76,7 +85,7 @@ March 2020 and ongoing
  - Created a grassroots outreach campaign to eviction-distressed neighborhoods
  - Made public comment on affordable housing policy 
 
-September 2022 to December 2022
+September 2021 to December 2021
 
 ### Pantry Operations Coordinator
 
@@ -94,7 +103,7 @@ September 2022 to December 2022
   - Successfully wrote a grant for Publix Charities
   - Implemented basic budgets, purchasing, sourcing
 
-January 2022 to September 2022
+January 2021 to September 2021
 
 ### Data Entry Specialist
 
@@ -120,7 +129,7 @@ January 2020 to March 2020
   - Delivered produce to rural grocery stores around the Islands and Peninsula using a Mercedes-Benz sprinter
   - Managed checks and invoices reporting for delivery runs
 
-January 2019 to December 2019
+January 2019 to October 2019
 
 ### Head Cook
 

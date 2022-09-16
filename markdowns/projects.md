@@ -26,6 +26,16 @@ A mutual aid project started in 2020 to divert farm excesses to residents of the
 
 [@farm2n on Instagram](https://instagram.com/farm2n)
 
+## Post-Burn Dashboard
+
+Visualization of data from an fire ecology study undertaken in Central Florida from 2020-2022. Written in R using tidyverse and Shiny.
+
+<figure>
+<img src="/media/postburn-dashboard-screenshot.png" alt="Screenshot of post-burn dashboard depicting stem length comparisons" loading=lazy>
+</figure>
+
+[Learn more about the data and dashboard](/projects/postburn.html)
+
 ## Evictions in Alachua County
 
 A project to find eviction-prone areas and social determinants of rental housing instability. Initiated with the <abbr title="Alachua County Labor Coalition">ACLC</abbr> but carried on with URP6272.
@@ -48,6 +58,10 @@ A personal multifaceted project to a) find food deserts and food swamps in Gaine
 
 ## Racialized Impacts of New Construction
 
-Undertaken as an project for my web-mapping class, this is a dashboard that looks at new construction per neighborhood. Currently uses frozen data with demographic data manually added.
+Undertaken as an project for my web-mapping class, this is a dashboard that looks at new construction per neighborhood. Currently uses data frozen at July 2022 with demographic data manually added.
+
+<figure>
+<img src="/media/gnv-construx-dashboard-screenshot.png" alt="Screenshot of Gainesville construction dashboard." loading="lazy">
+</figure>
 
 [Read about upzoning and its effects on black communities](/projects/gnv-construx.html)

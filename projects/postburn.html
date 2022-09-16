@@ -1,0 +1,67 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Renz Torres">
+    <meta name="keywords" content="Renz Torres, Renz Torres Gainesville, Renz Torres portfolio, Renz Torres Sebring, Renz Torres Florida, Gainesville mapping, Gainesville GIS, Renz gis, Renz Torres gis, Renz mapping, Renz Torres mapping, Renz Torres maps, Renz Torres urban planning, Renz Torres UF, Renz Torres University of Florida, Free Grocery Store, Farm 2 Neighbors, Renz Torres ACLC, Renz Torres FDOH">
+    <title>renz torres | postburn</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap" rel="stylesheet"> 
+</head>
+<body>
+    <div class="ctn">
+        <header>
+            <img id="banner" src="/media/banner_md.png" alt="Sandhill in Ralph E Simmons">
+            <nav>
+                <code>Renz Torres</code>
+                <a href="/index.html">Home</a>
+                <a href="/cv.html">Curriculum vitae</a>
+                <a href="/projects.html">Projects</a>
+                <a href="/writing.html">Writing</a>
+            </nav>
+        </header>
+        <main> 
+        <h1 id="post-burn-dashboard">Post-Burn Dashboard</h1>
+<p>This project is a visualization of data created by a team based in Central Florida studying the effects of prescribed fire seasonality on plant responses. Because the research and data are in draft, all species names are anonymized.</p>
+<h2 id="background">Background</h2>
+<p>The research studies fire in mesic flatwoods ecosystems, a historically dominant community type in Central Florida and a center of diversity in the Southeast. Flatwoods rely on regular fire for their maintenance - many species require fire to flower and fruit. As a consequence, flatwoods are majorly threatened by fire suppression, as well as development and mismanagement.</p>
+<p>(Restoration of) prescribed fire has been implemented across the Southeast, but one of the biggest contentions in the conservation and management community is the role of seasonality in prescribed burning. Many agencies tend to burn in the dormant season due to ease with ample fuels and cool weather. However, there is evidence that historically fires burned across the landscape during the growing season of late spring/early summer (<a href="https://www.dnr.sc.gov/news/yr2015/april9/april9_burn.html">read more about the debate from the South Carolina DNR</a>). Growing season burns are made difficult by increasingly more unpredictable rain and moisture levels with climate change.</p>
+<p>The research tests the effect observed in field of burn seasonality on phenology and regrowth vigor of a few hundred plant species in undisclosed Central Florida sites. It importantly does not test the role of fire itself on phenology or vigor and therefore doesn't have a traditional control. Prescribed fire at these sites can be divided into growing season (Apr-Jun) and dormant season (Dec-Mar). Measurements were taken as early as a few days post-burn to two years post burn. The data were collected from 2020-2022.</p>
+<h2 id="the-dashboard">The Dashboard</h2>
+<p>Using R, and extensive use of the [tidyverse], [shiny], and [grid.extra] libraries, I created an interactive dashboard that allows the user to subset data based on dependent variable (phenology, stem length, leaf length, and culm count), independent temporal variable (a normalized calendar date, and days post burn), and species (anonymized). Data are separated by season of burn. For people in the project, the species names can be de-anonymized with a specific password.</p>
+<p>Four views of the data are offered:</p>
+<ul>
+<li><em>raw burn response</em> - a simple dependent vs independent scatter plot with smoothing for ratio-type dependent variables</li>
+<li><em>temporal response comparison</em> - a comparison of dependent response to both days post burn and calendar date in the same frame</li>
+<li><em>vigor responses by time</em> - a season-summarized response of calculated time (in days post burn and calendar date) for a plant to reach a phenological or morphological maximum as determined per site, with confidence intervals</li>
+<li><em>raw vigor responses</em> - a comparison of the differences between numeric vigor (not phenological) maximums achieved between growing and dormant burns</li>
+</ul>
+<p>The data are hosted on Shinyapps, a freemium hosting platform for [shiny] apps. Please be mindful of the time you spend exploring this app - I don't have unlimited free hosting time!</p>
+<figure>
+    <iframe src="https://scrubgay.shinyapps.io/postburn" title="Post-burn dashboard hosted in Shinyapps" loading="lazy"></iframe>
+    <figcaption>Post-burn dashboard hosted in Shinyapps. Difficult to view? <a href="https://scrubgay.shinyapps.io/postburn">Open it in full screen</a>.
+    </figcaption>
+</figure>
+</main>
+        <footer>
+        	<div id="copyleft">
+	    		<h2>Copyleft</h2>
+    	        <p>Content licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt">Creative Commons BY-NC-SA 4.0</a>. Feel free to share, but work must be attributed. Derivatives must be non-commercial and be shared under the same license.</p>
+        	</div>
+            <div id="socials">
+                <h2>elsewhere</h2>
+                <ul>
+                    <li><a href="https://instagram.com/scrubgay">Instagram</a></li>
+                    <li><a href="https://github.com/renzst">Github</a></li>
+                    <li><a href="https://inaturalist.org/scrubgay">iNaturalist</a></li>
+                    <li><a href="mailto:info@renzst.com">Email</a></li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+
+
+</body></html>

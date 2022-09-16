@@ -7,7 +7,7 @@ My take on the issue was summarized in my [article to the Gainesville Sun](https
 This argument doesn't strictly address where development is likely going to happen, but just the forms of housing likely in the long term with the passing of the upzoning amendment. To aid in answering that question, I created a dashboard that displays development broken down by neighborhood, race, type of development, and the type of developer (for-profit, non-profit, private party-commissioned).
 
 <figure>
-    <iframe src=https://ufl.maps.arcgis.com/apps/dashboards/d2ca33a9bcf54455a37b4370ca89b853 title="New Building Permits in Gainesville" loading=lazy></iframe>
+    <iframe src="https://ufl.maps.arcgis.com/apps/dashboards/d2ca33a9bcf54455a37b4370ca89b853" title="New Building Permits in Gainesville" loading=lazy></iframe>
     <figcaption>
         New Building Permits in Gainesville. This dashboard allows breaking down development by a variety of factors. Difficult to view? <a href="https://ufl.maps.arcgis.com/apps/dashboards/d2ca33a9bcf54455a37b4370ca89b853">View the dashboard full-screen</a>.
     </figcaption>
