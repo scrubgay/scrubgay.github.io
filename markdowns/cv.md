@@ -1,9 +1,5 @@
 # *Curriculum vitae*
 
-## Personal statement
-
-The city is not just its form. A city can be walkable, dense, have adequate urban tree canopy, etc. However, if the city does not center the marginalized, reduces its citizens to bare life, submits to Capital, then it is the dead city. I seek to facilitate the living city, the one actively planned by its residents, where the means of production are owned by its citizens, and where autonomy of the marginalized is manifested day upon day, generation upon generation.
-
 ## Education
 
 ### Graduate certificate in Geographical Information Systems
@@ -44,15 +40,6 @@ January 2017 - June 2019
 August 2015 - December 2016
 
 ## Experiences
-
-### Minority AIDS Coordinator
-
-*at the Florida Department of Health*
-
-  - Manage linkage-to-care for black and brown people newly diagnosed with HIV
-  - Provide technical assistance to community based organizations that provide HIV- and sexual health-related services
-
-September 2022 and ongoing
 
 ### Founder & Coordinator
 
