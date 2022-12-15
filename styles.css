@@ -8,13 +8,22 @@
 
 * {
     text-transform: lowercase;
-    font-family: 'Fira Code', monospace;
+    font-family: Arial, Helvetica, sans-serif;
     color: var(--pinebark);
 }
 
-h1, h2, h3, h4, h5, h6, a, pre {
-    font-weight: bold;
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
     color: black;
+}
+
+h4, h5, h6 {
+    font-weight: 400
+}
+
+a, pre {
+    font-family: 'Consolas', 'Courier New', 'Courier', monospace;
 }
 
 body {

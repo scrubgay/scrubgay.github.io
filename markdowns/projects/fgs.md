@@ -6,7 +6,7 @@
 
 FGS began originally in 2019 as a small food diversion project hosted by the Civic Media Center, serving about 20-30 people per week using "waste" from a local grocery store. At the onset of the COVID pandemic, FGS was rapidly reorganized into the delivery service, pantry, garden, and neighborhood distributions that people know it for. FGS sources food from Bread of the Mighty food bank and allied grocery store, and it continues to be entirely community-supported.
 
-Currently, Free Grocery Store serves about 320 people across 100 households by delivery, about 15 households by walkup, and 30-50 people per neighborhood distribution.
+Currently, Free Grocery Store serves anywhere between 200-300 people across 60-100 households by delivery, about 30 households by walkup, and 30-50 people per neighborhood distribution.
 
 ## Renz's role
 
