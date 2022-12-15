@@ -7,7 +7,6 @@
 }
 
 * {
-    text-transform: lowercase;
     font-family: Arial, Helvetica, sans-serif;
     color: var(--pinebark);
 }
