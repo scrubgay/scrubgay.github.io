@@ -14,17 +14,15 @@ A mutual aid pantry based in Gainesville, FL, started in its current capacity in
 
 [@gnvfgs on Instagram](https://instagram.com/gnvfgs)
 
-## Farm 2 Neighbors
+## The Blueberry Farm
 
-A mutual aid project started in 2020 to divert farm excesses to residents of the food desert the farm operates in.
+Background genealogical and historical research into a plot of land on the Kincaid Loop being planned for redevelopment.
 
 <figure>
-<img src="/media/renz-brackin-f2n.jpg" alt="Renz and Brackin on the Farm 2 Neighbors truck" loading=lazy>
+<img src="/media/kincaid/GoogleEarth_BlueberryFarm_PostLoggingComposite.png" alt="Post logging image of the blueberry farm" loading=lazy>
 </figure>
 
-[Read about Farm 2 Neighbors and the Kincaid Loop](/projects/f2n.html)
-
-[@farm2n on Instagram](https://instagram.com/farm2n)
+[Flip through the history of the farm and the Kincaid Loop](/projects/kincaid.html)
 
 ## Post-Burn Dashboard
 
@@ -55,6 +53,18 @@ A personal multifaceted project to a) find food deserts and food swamps in Gaine
 </figure>
 
 [Learn the food deserts and swamps of Gainesville](/projects/ac-foodshed.html)
+
+## Farm 2 Neighbors
+
+A mutual aid project started in 2020 to divert farm excesses to residents of the food desert the farm operates in.
+
+<figure>
+<img src="/media/renz-brackin-f2n.jpg" alt="Renz and Brackin on the Farm 2 Neighbors truck" loading=lazy>
+</figure>
+
+[Read about Farm 2 Neighbors and the Kincaid Loop](/projects/f2n.html)
+
+[@farm2n on Instagram](https://instagram.com/farm2n)
 
 ## Racialized Impacts of New Construction
 

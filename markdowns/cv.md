@@ -1,4 +1,4 @@
-# *Curriculum vitae*
+# Curriculum vitae
 
 ## Education
 

@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Renz (they/them) - this is my portfolio website! I'm a queer Filipino currently based in Gainesville studying urban planning. I work with [Free Grocery Store](https://gnvfgs.org) and [Farm 2 Neighbors](https://instagram.com/farm2n).
+My name is Renz - welcome to my portfolio website! I'm a queer Filipino currently based in Gainesville, FL. I am a director of [Free Grocery Store](https://gnvfgs.org), a local food pantry. I am a graduate student of urban and regional planning with a focus on transportation planning at the University of Florida. I like walking and biking a *lot*, and also ecology and data analysis.
 
 <figure>
     <img src="/media/renz-in-carphephorus.jpg" alt="Renz smiles as they stand amidst Carphephorus (chaffheads).">
