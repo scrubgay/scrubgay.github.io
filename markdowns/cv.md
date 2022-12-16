@@ -23,7 +23,7 @@ January 2022 - December 2022
 *at the University of Washington (Seattle, WA)*
 
   - Introduction to GIS
-  - Lab experience in resotration ecology on Western Washington Prairies
+  - Lab experience in restoration ecology on Western Washington Prairies
     - Project management on lab seed germination
     - Visualization using R
   - Lab experience in developmental biology
@@ -49,7 +49,7 @@ August 2015 - December 2016
   - Designed a delivery logistics to serve homebound families during the pandemic
   - Host mobile pantries as outreach to housing-unstable neighborhoods
   - Created and maintain a customer relations database
-  - Identified and built relationships with commthirdy partners such as Bread of the Mighty, Fresh Market, and Trader Joe’s
+  - Identified and built relationships with community partners such as Bread of the Mighty, Fresh Market, and Trader Joe’s
   - Designed and manage fundraisers and marketing
   - Designed and manage guest service relationships, including frequent check-ins about quality of service and waitlists
   - Used GIS to identify high-risk geographical clusters in the Gainesville area to which to dedicate resources
@@ -59,6 +59,12 @@ August 2015 - December 2016
   - Deliver food to over 350 people across more than 100 households
 
 March 2020 and ongoing
+
+### City Plan Board
+
+*of the City of Gainesville*
+
+December 2022 and ongoing
 
 ### Campaign Coordinator
 
@@ -86,7 +92,7 @@ September 2021 to December 2021
   - Analyzed and visualized data about guest base using Excel and R
   - Spoke frequently with Spanish-monolingual guests
   - Translated signage and guest-facing marketing materials to Spanish
-  - Fostered partnerships with government, commthirdy, and internal organizations and departments
+  - Fostered partnerships with government, community, and internal organizations and departments
   - Successfully wrote a grant for Publix Charities
   - Implemented basic budgets, purchasing, sourcing
 
