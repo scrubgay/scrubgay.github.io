@@ -14,6 +14,16 @@ A mutual aid pantry based in Gainesville, FL, started in its current capacity in
 
 [@gnvfgs on Instagram](https://instagram.com/gnvfgs)
 
+## Evictions in Alachua County (updated!)
+
+Updated methodology, analysis, and results from the study on 20 years of Alachua County evictions.
+
+<figure>
+<img src="/media/ac-evictions-dec2022/ClusterOutlier_Preview.png" loading=lazy>
+</figure>
+
+[See my updates!](/projects/ac-evictions-dec2022.html)
+
 ## The Blueberry Farm
 
 Background genealogical and historical research into a plot of land on the Kincaid Loop being planned for redevelopment.
