@@ -2,6 +2,12 @@
 
 ## Education
 
+### Master's of Urban and Regional Planning
+
+*at the University of Florida (Gainesville, FL)*
+
+January 2023 - April 2025 (*anticipated*)
+
 ### Graduate certificate in Geographical Information Systems
 
 *at the University of Florida (Gainesville, FL)*
@@ -41,6 +47,30 @@ August 2015 - December 2016
 
 ## Experiences
 
+### Graduate Research Assistant
+
+*at the UF [Shimberg Center for Housing Studies](https://shimberg.ufl.edu)*
+
+  - conduct research on affordable housing and investor acquisition
+  - work with grassroots and large nonprofits in answering proposed research questions
+  - perform quantitative data analysis using various data sources including:
+    - United States Census
+    - parcel CAMA and sales
+    - geospatial
+    - proprietary data including water shutoffs
+  - use a combination of programming languages and techniques, including:
+    - R (general, spatial, temporal analysis, network analysis)
+      - tidyverse, including dplyr, ggplot, and purrr
+      - igraph
+      - data.table
+    - ArcGIS Pro and ArcGIS Online (mapping and presentation)
+    - Javascript (web scraping)
+    - Python (scripting)
+    - SQL (for querying and managing databases)
+  - assist coworkers in research surrounding policy formulation using data
+
+January 2023 and ongoing
+
 ### Founder & Coordinator
 
 *at the [Gainesville Free Grocery Store](https://gnvfgs.org)*
@@ -63,6 +93,10 @@ March 2020 and ongoing
 ### City Plan Board
 
 *of the City of Gainesville*
+
+  - conduct quasi-judicial hearings surrounding variance and special use permitting
+  - advise City of Gainesville Commission on legislative issues
+  - undertake and present personal research on housing issues
 
 December 2022 and ongoing
 
