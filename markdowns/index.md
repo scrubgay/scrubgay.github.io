@@ -4,7 +4,7 @@ My name is Renz - welcome to my portfolio website! I'm a queer Filipino currentl
 
 <figure>
     <img src="/media/renz-in-carphephorus.jpg" alt="Renz smiles as they stand amidst Carphephorus (chaffheads).">
-    <figcaption>Renz smiles as they stand among chaffheads (Carphephorus corymbosus) at Longleaf Flatwoods in Alachua County, Florida. Photo credit to <a href="https://instagram.com/brettbudach">Brett Budach</a>.</figcaption>
+    <figcaption>Me smiling as I stand among chaffheads (Carphephorus corymbosus) at Longleaf Flatwoods in Alachua County, Florida. Photo credit to <a href="https://instagram.com/brettbudach">Brett Budach</a>.</figcaption>
 </figure>
 
 ## My geography
