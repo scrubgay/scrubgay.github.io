@@ -12,6 +12,8 @@ January 2023 - April 2025 (*anticipated*)
 
 *at the University of Florida (Gainesville, FL)*
 
+#### Relevant coursework
+
   - Automation of GIS
       - Learned custom tool-building in ArcGIS, ArcPy, ArcGIS Model Builder, and designing tool interfaces
       - Produced a tool in ArcPy and a tool interface that performed a suitability analysis on areas for traffic safety improvements
@@ -28,7 +30,8 @@ January 2022 - December 2022
 
 *at the University of Washington (Seattle, WA)*
 
-  - Introduction to GIS
+#### Extracurricular academic experience
+
   - Lab experience in restoration ecology on Western Washington Prairies
     - Project management on lab seed germination
     - Visualization using R
@@ -36,6 +39,33 @@ January 2022 - December 2022
     - Managed hybridization staining assays on zebrafish embryos
     - Fixed a long-standing issue causing failure of the hybridization protocol
     - Techniques: Hybridization, PCR, gel electrophoresis, DNA probe synthesis
+
+#### Relevant coursework
+
+  - Introduction to GIS
+    - Presented a final project on food deserts and swamps in Seattle
+    - Basic operations and analysis on vectors
+    - Introduction to ArcGIS and QGIS
+    - Basic style and layout of maps
+  - Plant identification and classification
+    - Introduced to several plant taxa common in the Pacific Northwest
+    - Learned botanical keying and identification to family based on morphology
+    - Overview of morphological and phylogenetic classification
+  - Field ecology
+    - Learned and practiced data collection techniques:
+      - quadrat surveys for species cover
+      - behavioral observation techniques on mobile fauna
+      - literature review
+  - Biogeography
+    - Studied phylogenetic research and intersection with geography
+    - Examined genetic diversification events in several floral and faunal taxa
+  - Fish and Wildlife Toxicology
+    - Conducted toxicology experiments on burrowing shrimp in Willapa Bay to aid oyster aquaculture efforts
+    - Collected shrimp from study sites and extracted morphological material
+    - Analyzed data and presented using R and ggplot
+    - Learned basic toxicology concepts such as direct and indirect lethal effects, inherent sensitivity, and dose response curves
+  - Salmonid Behavior and Life History
+  - Watershed Ecology and Management
 
 January 2017 - June 2019
 
@@ -89,6 +119,16 @@ January 2023 and ongoing
   - Deliver food to over 350 people across more than 100 households
 
 March 2020 and ongoing
+
+### Contract Data Analyst
+
+#### Central Florida Fire Ecology
+
+- analyze effects of fire seasonality on phenology and vigor of Central Florida flatwoods species
+- implement dashboards in Shiny using R to create graphs and build tables
+- collect data on phenology and morphology in Central Florida flatwoods
+- identify and classify species based on morphology and taxonomy
+
 
 ### City Plan Board
 
