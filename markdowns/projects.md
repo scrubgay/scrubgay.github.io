@@ -4,7 +4,9 @@
 
 *Who owns our homes? Unmasking the anonymous corporate owner and identifying market concentration*
 
-A short research paper about methods of connecting related anonymous corporate owners into one single owner and understanding concentration of ownership in the single-family housing market of Jacksonville, Florida. [Read more about it](/projects/who-owns-our-homes.html). Anticipated publication date winter of 2023-2024.
+A short research paper about methods of connecting related anonymous corporate owners into one single owner and understanding concentration of ownership in the single-family housing market of Jacksonville, Florida. Anticipated publication date winter of 2023-2024.
+
+[Learn more](/projects/who-owns-our-homes.html). 
 
 ## Free Grocery Store
 
