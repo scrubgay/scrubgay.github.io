@@ -42,5 +42,6 @@
 
 ## "Hey look, that's me!"
 
-  - *Alachua County residents protest what they say is housing discrimination*: [WUFT](https://www.wuft.org/news/2021/10/22/alachua-county-residents-protest-housing-discrimination/)
+  - *Gainesville community tackles Eastside food insecurity*: [The Independent Florida Alligator](https://www.alligator.org/article/2023/05/east-gainesville-food-insecurity) <sub>peek me looking 💅🏽 and awkward af</sub>
   - *What is mutual aid? Here's how one Gainesville group takes part*: [The Independent Florida Alligator](https://www.alligator.org/article/2021/09/mutual-aid-free-grocery-store)
+  - *Alachua County residents protest what they say is housing discrimination*: [WUFT](https://www.wuft.org/news/2021/10/22/alachua-county-residents-protest-housing-discrimination/)

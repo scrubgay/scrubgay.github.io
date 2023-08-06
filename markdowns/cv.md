@@ -1,5 +1,22 @@
 # Curriculum vitae
 
+## Research
+
+### Themes and questions
+
+- Increasing corporate domination in single-family housing
+- Financialization in housing on long-term horizons
+- Eviction, foreclosure, and housing loss geography
+- Housing markets after natural or economic crisis
+
+### Writing
+
+*Who owns our homes? Unmasking the anonymous corporate owner and identifying market concentration*
+
+Winter 2023/2024 (anticipated)
+
+A short research paper about methods of connecting related anonymous corporate owners into one single owner and understanding concentration of ownership in the single-family housing market of Jacksonville, Florida. [Read more about it](/projects/who-owns-our-homes.html)
+
 ## Education
 
 ### Master's of Urban and Regional Planning

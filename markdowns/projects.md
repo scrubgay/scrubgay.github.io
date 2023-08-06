@@ -1,5 +1,11 @@
 # Projects
 
+## Who owns our homes?
+
+*Who owns our homes? Unmasking the anonymous corporate owner and identifying market concentration*
+
+A short research paper about methods of connecting related anonymous corporate owners into one single owner and understanding concentration of ownership in the single-family housing market of Jacksonville, Florida. [Read more about it](/projects/who-owns-our-homes.html). Anticipated publication date winter of 2023-2024.
+
 ## Free Grocery Store
 
 A mutual aid pantry based in Gainesville, FL, started in its current capacity in March 2020.
