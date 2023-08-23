@@ -3,9 +3,9 @@
 My name's Renz and I use they/them pronouns. Here's what I'm doing right now:
 
 - in my research era at the [Shimberg Center for Housing Studies](https://shimberg.ufl.edu) 👾
-- master's moment of the University of Florida's [Urban and Regional Planning](https://dcp.ufl.edu/urp) program 🐊
+- master's student of the University of Florida's [Urban and Regional Planning](https://dcp.ufl.edu/urp) program 🐊
 - chairing [Free Grocery Store](https://gnvfgs.org), a local food pantry 🍍
-- walking, biking, plant ecology, writing, and poetry 🌲🚶🏽‍♂️🚲✍🏽🌻
+- walking, biking, plant ecology, writing, and poetry 🚶🏽‍♂️🚲🌲✍🏽🌻
 
 <figure>
     <img src="/media/renz.jpg" alt="Renz smiles with their first crappie catch">
