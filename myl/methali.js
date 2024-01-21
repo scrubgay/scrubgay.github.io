@@ -43,6 +43,10 @@ function insert_myl(myl) {
     anch.appendChild(source);
 }
 
-const methalis = get_methalis("methalis.json").then(data => data);
-const myl = get_myl(methalis);
-insert_myl(myl);
+async function main() {
+    const methalis = await get_methalis("methalis.json").then(data => data);
+    console.log(methalis);
+    const myl = get_myl(methalis);
+    console.log(myl);
+    insert_myl(myl);
+}
