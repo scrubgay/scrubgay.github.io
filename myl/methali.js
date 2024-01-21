@@ -1,5 +1,12 @@
-async function get_methalis(apiUrl) {
-    return fetch(apiUrl).then(res => res.json());
+async function get_methalis (url) {
+    const response = await fetch(url);
+    if (response.ok) {
+        return await response.json()
+    }
+    else {
+        console.log(response.status)
+        return null
+    }
 }
 
 const get_myl = (methalis) => {
@@ -36,6 +43,6 @@ const insert_myl = (myl) => {
     anch.appendChild(source);
 }
 
-const methalis = await get_methalis("methalis.json");
+const methalis = get_methalis("methalis.json").then(data => data);
 const myl = get_myl(methalis);
 insert_myl(myl);
