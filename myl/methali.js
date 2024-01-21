@@ -17,7 +17,7 @@ const get_myl = (methalis) => {
     return methalis[index];
 }
 
-const insert_myl = (myl) => {
+function insert_myl(myl) {
     const anch = document.querySelector("main");
 
     const h1 = document.createElement("h1");
