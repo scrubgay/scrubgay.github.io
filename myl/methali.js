@@ -50,3 +50,5 @@ async function main() {
     console.log(myl);
     insert_myl(myl);
 }
+
+main();
