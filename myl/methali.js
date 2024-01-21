@@ -6,10 +6,6 @@ const get_methalis = (apiUrl) => {
         }
         return response.json();
       })
-      .then(data => {
-        // Handle the parsed JSON data
-        displayData(data);
-      })
       .catch(error => {
         console.error('Error fetching data:', error);
       });
