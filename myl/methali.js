@@ -1,4 +1,4 @@
-const get_methalis = (apiUrl) => {
+async function get_methalis(apiUrl) {
     return fetch(apiUrl).then(res => res.json());
 }
 
