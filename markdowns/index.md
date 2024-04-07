@@ -7,7 +7,7 @@ My name's Renz and I use they/them pronouns. Here's what I'm up to as of Spring 
 - walking, running, biking, botanizing, gardening, coding, and writing 🚶🏽‍♂️🌻✍🏽
 
 <figure>
-    <img src="/media/renz.jpg" alt="Renz smiles with their first crappie catch">
+    <img src="/media/renz.jpg" style="width: min(75%, 500px)" alt="Renz smiles with their first crappie catch">
     <figcaption>My first crappie catch. Photo credit to Matteo Cleary</figcaption>
 </figure>
 
