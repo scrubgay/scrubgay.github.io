@@ -1,4 +1,4 @@
-async function get_methalis (url) {
+    async function get_methalis (url) {
     const response = await fetch(url);
     if (response.ok) {
         return await response.json()
@@ -10,9 +10,13 @@ async function get_methalis (url) {
 }
 
 const get_myl = (methalis) => {
-    const today = Math.floor(Date.now()/(1000*60*60*24));
-    const random = new Math.seedrandom(today);
-    const index = Math.floor((methalis.length+1) * random.quick());
+    // const today = Math.floor(Date.now()/(1000*60*60*24));
+    // const random = new Math.seedrandom(today);
+    // const index = Math.floor((methalis.length+1) * random.quick());
+
+    const now = new Date();
+    const fullDaysSinceEpoch = Math.floor(now/8.64e7);
+    const index = fullDaysSinceEpoch % methalis.length
 
     return methalis[index];
 }
