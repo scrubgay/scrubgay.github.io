@@ -23,7 +23,6 @@ a, pre, code {
 
 body {
     background-color: var(--pinebark);
-    background-image: url("/media/hartwrightia-pixelated.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;

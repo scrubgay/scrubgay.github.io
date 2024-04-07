@@ -18,34 +18,28 @@ const get_myl = (methalis) => {
 }
 
 function insert_myl(myl) {
-    const anch = document.querySelector("main");
 
-    const h1 = document.createElement("h1");
-    h1.textContent = "Methali ya leo...";
+    const methali = document.querySelector("#methali");
+    methali.textContent = myl.text;
 
-    const h2 = document.createElement("h2");
-    h2.textContent = myl.text;
+    const exp = document.querySelector("#explanation")
+    exp.textContent = myl.explanation;
 
-    const exp = document.createElement("p");
-    const exptext = document.createElement("em");
-    exptext.textContent = myl.explanation;
-    exp.appendChild(exptext);
-
-    const source = document.createElement("p");
-    source.textContent = "Sourced from the University of Illinois, Urbana-Champaign, Center for African Studies (http://swahiliproverbs.afrst.illinois.edu/index.htm). Citations: "
+    const source = document.querySelector("#citation");
+    const source_link = document.createElement("a");
+    source_link.textContent = "University of Illinois Center for African Studies";
+    source_link.href = myl.source;
+    source.appendChild(source_link);
+    let cite_text = " ";
     for (let cit of myl.citations) {
-        source.textContent += cit.source + " " + cit.page + ". "
+        cite_text += cit.source + " " + cit.page + ". "
     }
-
-    anch.appendChild(h1);
-    anch.appendChild(h2);
-    anch.appendChild(exp);
-    anch.appendChild(source);
+    const cites = document.createTextNode(cite_text);
+    source.appendChild(cites);
 }
 
 async function main() {
     const methalis = await get_methalis("methalis.json").then(data => data);
-    console.log(methalis);
     const myl = get_myl(methalis);
     console.log(myl);
     insert_myl(myl);

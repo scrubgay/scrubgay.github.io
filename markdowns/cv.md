@@ -13,7 +13,7 @@
 
 *Who owns our homes? Unmasking the anonymous corporate owner and identifying market concentration*
 
-Winter 2023/2024 (anticipated)
+March 2024 in [Cityscape](https://www.huduser.gov/portal/periodicals/cityscape/vol26num1/article17.html)
 
 A short research paper about methods of connecting related anonymous corporate owners into one single owner and understanding concentration of ownership in the single-family housing market of Jacksonville, Florida. [Read more about it](/projects/who-owns-our-homes.html)
 
@@ -98,13 +98,17 @@ August 2015 - December 2016
 
 *at the UF [Shimberg Center for Housing Studies](https://shimberg.ufl.edu)*
 
-  - conduct research on affordable housing and investor acquisition
-  - work with grassroots and large nonprofits in answering proposed research questions
-  - perform quantitative data analysis using various data sources including:
+  - conduct research in:
+    - corporate ownership of single-family homes
+    - mapping institutional housing landscapes
+    - how housing markets change after disaster, including the "disaster investor" phenomenon and disaster gentrification
+  - work with nonprofit and activist stakeholders in addressing housing policy concerns through data
+  - work with news agencies in creating and visualizing housing market analyses
+  - perform quantitative data analysis integrating many data sources including:
     - United States Census
     - parcel CAMA and sales
     - geospatial
-    - proprietary data including water shutoffs
+    - proprietary sources
   - use a combination of programming languages and techniques, including:
     - R (general, spatial, temporal analysis, network analysis)
       - tidyverse, including dplyr, ggplot, and purrr
@@ -122,7 +126,7 @@ January 2023 and ongoing
 
 *at the [Gainesville Free Grocery Store](https://gnvfgs.org)*
 
-  - Designed from near-scratch the second largest food pantry in Gainesville by number of users, and the only one offering delivery services
+  - Designed the second largest food pantry in Gainesville by number of users, and the only one offering delivery services
   - Designed a delivery logistics to serve homebound families during the pandemic
   - Host mobile pantries as outreach to housing-unstable neighborhoods
   - Created and maintain a customer relations database
@@ -135,7 +139,7 @@ January 2023 and ongoing
   - Provide assistance for Spanish translations and interpretation
   - Deliver food to over 350 people across more than 100 households
 
-March 2020 and ongoing
+March 2020 - December 2023
 
 ### Contract Data Analyst
 

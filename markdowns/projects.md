@@ -1,12 +1,4 @@
-# Projects
-
-## Who owns our homes?
-
-*Who owns our homes? Unmasking the anonymous corporate owner and identifying market concentration*
-
-A short research paper about methods of connecting related anonymous corporate owners into one single owner and understanding concentration of ownership in the single-family housing market of Jacksonville, Florida. Anticipated publication date winter of 2023-2024.
-
-[Learn more](/projects/who-owns-our-homes.html). 
+# Personal Projects
 
 ## Free Grocery Store
 
@@ -21,6 +13,12 @@ A mutual aid pantry based in Gainesville, FL, started in its current capacity in
 [gnvfgs.org](https://gnvfgs.org)
 
 [@gnvfgs on Instagram](https://instagram.com/gnvfgs)
+
+## Methali ya leo
+
+A tiny little project that generates a methali from a list from the University of Illinois. Methalis are Swahili sayings about life, often with sassy intent especially when used by elders. A lil practice project in JS and web scraping.
+
+[Get the methali ya leo](/myl)
 
 ## Evictions in Alachua County (updated!)
 
