@@ -5,7 +5,7 @@
 A mutual aid pantry based in Gainesville, FL, started in its current capacity in March 2020.
 
 <figure>
-<img src="/media/renz-fgs.jpg" alt="Renz held by other FGS volunteers" loading=lazy>
+<img src="/media/renz-fgs.jpg" style="width: min(75%, 500px)" alt="Renz held by other FGS volunteers" loading=lazy>
 </figure>
 
 [Read about Free Grocery Store's history](/projects/fgs.html)
