@@ -122,6 +122,17 @@ August 2015 - December 2016
 
 January 2023 and ongoing
 
+### Heirs Property Intern
+
+*at [LISC Jacksonville](https://www.lisc.org/jacksonville)*
+
+  - identify historical and current heir properties and their trajectories
+  - deduce major causes and outcomes with heir owners, including loss and corporate buying
+  - create a typology of corporate owners of single-family housing in Jacksonville's Urban Core
+  - lead presentations and facilitate discussions among officers and partner stakeholders
+  - ideate financial products to ensure access to funds for vulnerable home-rich money-poor homeowners
+  - work in R and SQL on parcel, sales, and web-scraped data
+
 ### Founder & Coordinator
 
 *at the [Gainesville Free Grocery Store](https://gnvfgs.org)*
@@ -268,12 +279,15 @@ August 2015 to December 2015
 
   - Technologies
     - GIS (QGIS and ArcGIS)
-      - ArcPy
-      - ArcGIS Online
     - R
     - Python
     - Javascript
     - SQL
+    - visualization tools
+      - Leaflet
+      - Shiny
+      - Datawrapper
+      - ArcGIS Online
     - Microsoft Office
   - Languages
     - Spanish (conversational)

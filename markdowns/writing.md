@@ -10,9 +10,21 @@ A short research paper about methods of connecting related anonymous corporate o
 
 [Learn more](/projects/who-owns-our-homes.html). 
 
+## Writing I significantly contributed to
+
+*Corporate Buyouts: How investors and large corporations that are buying more single-family homes are putting a pinch on homeowners and renters across the greater Tampa Bay region* by Gabriella Paul
+
+A four-part series published with NPR affiliate [WUSF](https://www.wusf.org/corporate-buyouts) detailing the buyout of single-family homes in the Tampa Bay metropolitan area. The series covers many different stakeholders, tenants, landlords - huge REITs and asset managers, and local small fry - and the housing they live in. My contribution to the series was the data pieces - using scrappy data methods like one from *Who owns our homes* - I mapped out each property owner in the Tampa Bay region and what they owned, how their ownership is clustered in the metro, and mapped build to rent neighborhoods. These were all done in a combination of R and SQL, and Plotly and Leaflet for visualization.
+
+View each part of the series here:
+
+- [How investors and large corporations that are buying more single-family homes are putting a pinch on homeowners and renters across the greater Tampa Bay region](https://www.wusf.org/corporate-buyouts)
+- [Homeowners say investor activity is transforming their neighborhoods](https://www.wusf.org/economy-business/2024-05-08/homeowners-say-investor-activity-transforming-neighborhoods)
+- [Experts say midsize investors play an important role in the rental housing market](https://www.wusf.org/economy-business/2024-05-30/midsize-investors-play-important-role-rental-housing-market-experts-say)
+- [Tampa Bay renters call out 'unlivable conditions' under corporate landlords](https://www.wusf.org/economy-business/2024-07-03/tampa-bay-renters-call-out-unlivable-conditions-corporate-landlords)
+
 ## I am @'d
 
-  - *Homebuyers in the greater Tampa Bay region are forced to compete with investors*: [WUSF | NPR](https://www.wusf.org/economy-business/2024-04-04/tampa-bay-homebuyers-forced-compete-investors)
   - *’23 Symposium Highlights Research Conducted by DCP Students & Faculty*: [UF DCP News](https://dcp.ufl.edu/news/23-symposium-highlights-research-conducted-by-dcp-students-faculty/)
   - *Gainesville community tackles Eastside food insecurity*: [The Independent Florida Alligator](https://www.alligator.org/article/2023/05/east-gainesville-food-insecurity) <sub>peek me looking 💅🏽 and awkward af</sub>
   - *What is mutual aid? Here's how one Gainesville group takes part*: [The Independent Florida Alligator](https://www.alligator.org/article/2021/09/mutual-aid-free-grocery-store)

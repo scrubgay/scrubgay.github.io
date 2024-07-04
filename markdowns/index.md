@@ -1,9 +1,10 @@
 # Welcome!
 
-My name's Renz and I use they/them pronouns. Here's what I'm up to as of Spring 2024:
+My name's Renz and I use they/them pronouns. Here's what I'm up to as of Summer 2024:
 
 - graduate research assistanting at the [Shimberg Center for Housing Studies](https://shimberg.ufl.edu) 👾
 - master's studenting in the University of Florida's [Urban and Regional Planning](https://dcp.ufl.edu/urp) program 🐊
+- heirs property intern at [LISC Jacksonville](https://www.lisc.org/jacksonville/)
 - walking, running, biking, botanizing, gardening, coding, and writing 🚶🏽‍♂️🌻✍🏽
 
 <figure>
@@ -13,10 +14,8 @@ My name's Renz and I use they/them pronouns. Here's what I'm up to as of Spring 
 
 ## About me
 
-I owe who I am to my geographies. My heritage traces to the Philippines's Central Luzon - from there comes my skin, tongue, and culture. I am rooted in Florida's Lake Wales Ridge, where hyperendemic scrub mints, the citrus collapse hinterland, and an odd Filipino enclave, all collide. My stints across the US - longest in Seattle and Gainesville (where I am now) - have taught me how to see the world through geography - of place, of flux, of conflict, and of course through endless critique.
+I am in large part my geographies. My blood wells up from Central Luzon in the Philippines - and from there comes my skin, tongue, and one of my cultures. I'm rooted in the Lake Wales Ridge in Florida, a land of hyperendemic scrub mints, the suburban hinterland of citrus' collapse, and an odd Filipino enclave. My stints across the US - longest in Seattle and Gainesville - have given me a lens for a geographical world view, one that includes place, flux, conflict, dialectic, and endless critique.
 
-What occupies me most is studying flows of capital. Currently I'm exploring the growth of the US single-family rental market as a function of crisis and increasingly institutionalized and financialized everyday landscapes. My most recent work, [Who owns our homes](https://www.huduser.gov/portal/periodicals/cityscape/vol26num1/article17.html) is the first of a series that explores data methods of mapping the growth of institutional (shadowy hedge fund managers and their capital - once in the board room but now *everywhere*) investment in housing.
+I study flows of capital and capital fixes. My research tends to revolve around at least one of three crisis inflection points: the 2008 recession and its role in reshaping the US housing market, COVID and the great reordering of space + inflation, and disaster/future climate collapse and capital's aversion of/investment into risk. Quantiative analysis of big data is my M.O. - my most recent work, [Who owns our homes](https://www.huduser.gov/portal/periodicals/cityscape/vol26num1/article17.html) is the first of a series that explores data methods of mapping the growth of institutional investment in housing. Capital postpones and defers crisis through many fixes - I try to capture at least some of the novel ones.
 
-I'm also interested in the role of crises - natural disaster, financial collapse, and the [*Long* Crisis](https://brooklynrail.org/2018/04/field-notes/PHIL-NEEL-with-Paul-Mattick) - in shaping capital's movement. I'm interested in the geography of rent and how rent slowly becomes the only frontier for overaccumulated capital.
-
-Ultimately, I want to map this landscape's meaning for us. I see our horizons dwindling as it becomes harder and harder to live - because of a state that withdraws care and protection, because of capital's increasing empowerment over everything, and for a bleak climate future. (Because I can't draw pictures,) I hope that through data, research, and synthesizing narrative, I can create pictures - mappings - of the landscapes of conflict and flux we find ourselves in, and how capital and ecology shapes both. From this map, I hope to (help) create an agenda for the genesis of the world whose future shines for us.
+I see our horizons for revolution dwindling as life becomes harder to live. Capitalism totalizes every aspect of being, a state that withdraws care and continues to expand the free market carceral landscape, and a climate future that gets bleaker and bleaker. My positive project with my research is that through the synthesis of data, theory, and narrative, I can create pictures and mappings of the landscapes of conflict we find ourselves in. From this map, I hope to create a vision for the genesis of the world whose future shines on us.
