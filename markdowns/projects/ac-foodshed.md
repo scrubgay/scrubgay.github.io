@@ -74,16 +74,12 @@ Many (not all) people can travel to get fresh fruits and vegetables outside of t
 
 Although every social-justice-oriented map of Gainesville tends to paint the same east/west divide, East Gainesville isn't the depauperate landscape that may be in the mind of planners and activists. Besides a single Walmart, fast food, and gas stations, no chains operate on the Eastside. However, there's a rich foodscape characterized by informality and subformality, convenience stores functioning as general stores, food trucks, seafood and meat vendors, and even pop-up tents barely tracked by Google. 
 
-To understand more about the nature of these food systems, I set up a survey to gather statistics about food access points in East Gainesville. For clarity on scope, the study area is focused on SE Gainesville and defined as east of NE Waldo Rd and S 11th St, west of SE 43rd St, south of NE 8th Ave, and north of SE 23rd Pl.
-
-The Survey123 is currently not public, but I can grant access if you're interested in participating.
-
-The data from the survey is collected below.
+To understand more about the nature of these food systems, I set up a survey to gather statistics about food access points in East Gainesville. The study area was focused on SE Gainesville, defined as east of NE Waldo Rd and S 11th St, west of SE 43rd St, south of NE 8th Ave, and north of SE 23rd Pl.
 
 <figure>
-    <iframe src="https://ufl.maps.arcgis.com/apps/instant/minimalist/index.html?appid=31d91d863df44b8a8c4e9b9aa56cf2ad" title="Eastside Informal Food Systems"></iframe>
+    <img src='/media/gnv-informal-food-screenshot' alt='Screenshot of Gainesville informal food dashboard' loading='lazy'>
     <figcaption>
-        ArcGIS Instant App of the informal and subformal food resources of East Gainesville
+        Screenshot of ArcGIS Instant App (since archived) of East Gainesville informal and subformal food resources
     </figcaption>
 </figure>
 

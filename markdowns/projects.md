@@ -8,7 +8,7 @@ A mutual aid pantry based in Gainesville, FL, started in its current capacity in
 <img src="/media/renz-fgs.jpg" alt="Renz held by other FGS volunteers" loading=lazy>
 </figure>
 
-[Read about Free Grocery Store's history](/projects/fgs.html)
+[FGS](/projects/fgs.html)
 
 [gnvfgs.org](https://gnvfgs.org)
 
@@ -18,7 +18,7 @@ A mutual aid pantry based in Gainesville, FL, started in its current capacity in
 
 A tiny little project that generates a methali from a list from the University of Illinois. Methalis are Swahili sayings about life, often with sassy intent especially when used by elders. A lil practice project in JS and web scraping.
 
-[Get the methali ya leo](/myl)
+[MYL](/myl)
 
 ## Evictions in Alachua County (updated!)
 
@@ -28,7 +28,7 @@ Updated methodology, analysis, and results from the study on 20 years of Alachua
 <img src="/media/ac-evictions-dec2022/ClusterOutlier_Preview.png" loading=lazy>
 </figure>
 
-[See my updates!](/projects/ac-evictions-dec2022.html)
+[AC-EVICTIONS-DEC2022](/projects/ac-evictions-dec2022.html)
 
 ## The Blueberry Farm
 
@@ -38,7 +38,7 @@ Background genealogical and historical research into a plot of land on the Kinca
 <img src="/media/kincaid/GoogleEarth_BlueberryFarm_PostLoggingComposite.png" alt="Post logging image of the blueberry farm" loading=lazy>
 </figure>
 
-[Flip through the history of the farm and the Kincaid Loop](/projects/kincaid.html)
+[KINCAID](/projects/kincaid.html)
 
 ## Post-Burn Dashboard
 
@@ -48,46 +48,46 @@ Visualization of data from an fire ecology study undertaken in Central Florida f
 <img src="/media/postburn-dashboard-screenshot.png" alt="Screenshot of post-burn dashboard depicting stem length comparisons" loading=lazy>
 </figure>
 
-[Learn more about the data and dashboard](/projects/postburn.html)
+[POSTBURN](/projects/postburn.html)
 
 ## Evictions in Alachua County
 
-A project to find eviction-prone areas and social determinants of rental housing instability. Initiated with the <abbr title="Alachua County Labor Coalition">ACLC</abbr> but carried on with URP6272.
+A project with the <abbr title="Alachua County Labor Coalition">ACLC</abbr> to identify eviction-prone areas and their social determinants.
 
 <figure>
 <img src="/media/evictions-bg.png" alt="Evictions by block group in Alachua County" loading=lazy>
 </figure>
 
-[Read about the spatialization of eviction](/projects/ac-evictions.html)
+[AC-EVICTION](/projects/ac-evictions.html)
 
 ## Foodshed of Alachua County
 
-A personal multifaceted project to a) find food deserts and food swamps in Gainesville and Alachua County, and b) map the informal foodshed of the east side food desert.
+A project to a) find food deserts and food swamps in Gainesville and Alachua County, and b) map the informal foodshed of the east side food desert.
 
 <figure>
 <img src="/media/alachua_food-deserts.png" alt="Food deserts of Alachua County" loading=lazy>
 </figure>
 
-[Learn the food deserts and swamps of Gainesville](/projects/ac-foodshed.html)
+[AC=FOODSHED](/projects/ac-foodshed.html)
 
 ## Farm 2 Neighbors
 
-A mutual aid project started in 2020 to divert farm excesses to residents of the food desert the farm operates in.
+A mutual aid project (2020-2022) to divert farm excesses to residents of the food desert the farm operates in.
 
 <figure>
 <img src="/media/renz-brackin-f2n.jpg" alt="Renz and Brackin on the Farm 2 Neighbors truck" loading=lazy>
 </figure>
 
-[Read about Farm 2 Neighbors and the Kincaid Loop](/projects/f2n.html)
+[F2N](/projects/f2n.html)
 
 [@farm2n on Instagram](https://instagram.com/farm2n)
 
 ## Racialized Impacts of New Construction
 
-Undertaken as an project for my web-mapping class, this is a dashboard that looks at new construction per neighborhood. Currently uses data frozen at July 2022 with demographic data manually added.
+A dashboard created for my web-mapping class to visualize new construction in Gainesville neighborhoods. 
 
 <figure>
 <img src="/media/gnv-construx-dashboard-screenshot.png" alt="Screenshot of Gainesville construction dashboard." loading="lazy">
 </figure>
 
-[Read about upzoning and its effects on black communities](/projects/gnv-construx.html)
+[GNV-CONSTRUX](/projects/gnv-construx.html)
