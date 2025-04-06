@@ -1,9 +1,0 @@
-# Who owns our homes?
-
-*Who owns our homes? Unmasking the anonymous corporate owner and identifying market concentration* is a short methods-focused paper about understanding what a corporate landlord owns within a market. What makes this difficult is that corporations have elaborate structures with multiple levels of subsidiaries, along with other confounding structures like joint ventures. Looking at the tax parcel ownership and seeing that "Property Owner 10 LLC" owns the property doesn't shine light on the real corporate beneficiary or any other properties that corporation may own outside of "Property Owner 10 LLC".
-
-This paper draws out a method of finding out what owners are connected to, or perhaps the same as, other corporate owners. Once you do know who owns what, then you can figure out how much any one particular owner dominates a market, how owners of certain sizes act collectively, or how concentrated the entire market is. Here I focus mostly on institutional landlords - the *really* thicc Wall Street landlords with thousands of properties. Compared to the mom-and-pop landlord, these have ample money to spend and easily outcompete the average homebuyer.
-
-In this paper I study the single-family rental market of Jacksonville, FL. Jax's housing market has become rapidly unaffordable and hostile as aggressive corporate landlords purchase and corner more housing stock in more places. In the paper, I look at two landlords who acquired a lot of property in my analysis time window. Then I look at aggregate characterizations of market concentrations and how it changes over time.
-
-Read the method here: [Cityscape](https://www.huduser.gov/portal/periodicals/cityscape/vol26num1/article17.html)
