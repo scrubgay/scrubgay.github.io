@@ -1,4 +1,4 @@
-# Personal Projects
+# Projects
 
 ## Free Grocery Store
 
@@ -13,12 +13,6 @@ A mutual aid pantry based in Gainesville, FL, started in its current capacity in
 [gnvfgs.org](https://gnvfgs.org)
 
 [@gnvfgs on Instagram](https://instagram.com/gnvfgs)
-
-## Methali ya leo
-
-A tiny little project that generates a methali from a list from the University of Illinois. Methalis are Swahili sayings about life, often with sassy intent especially when used by elders. A lil practice project in JS and web scraping.
-
-[MYL](/myl)
 
 ## Evictions in Alachua County (updated!)
 
@@ -79,15 +73,3 @@ A mutual aid project (2020-2022) to divert farm excesses to residents of the foo
 </figure>
 
 [F2N](/projects/f2n.html)
-
-[@farm2n on Instagram](https://instagram.com/farm2n)
-
-## Racialized Impacts of New Construction
-
-A dashboard created for my web-mapping class to visualize new construction in Gainesville neighborhoods. 
-
-<figure>
-<img src="/media/gnv-construx-dashboard-screenshot.png" alt="Screenshot of Gainesville construction dashboard." loading="lazy">
-</figure>
-
-[GNV-CONSTRUX](/projects/gnv-construx.html)

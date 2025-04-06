@@ -4,10 +4,10 @@
 
 ### Themes and questions
 
-- Increasing corporate domination in single-family housing
-- Financialization in housing on long-term horizons
-- Eviction, foreclosure, and housing loss geography
-- Housing markets after natural or economic crisis
+  - Concentration and monopoly in single-family rentals
+  - Housing recovery after natural disaster
+  - Eviction mapping
+  - Housing investment and climate risk
 
 ### Writing
 
@@ -23,7 +23,14 @@ A short research paper about methods of connecting related anonymous corporate o
 
 *at the University of Florida (Gainesville, FL)*
 
-January 2023 - April 2025 (*anticipated*)
+January 2023 - April 2025
+
+#### Extracurricular academic experience
+
+  - Individual study under Dr. Renee Tapp
+    - Research methods of accumulation of SFR
+    - Identify key mechanisms of portfolio acquisitions and dispossessions
+    - Tools used: R, SQL, Python
 
 ### Graduate certificate in Geographical Information Systems
 
@@ -32,14 +39,14 @@ January 2023 - April 2025 (*anticipated*)
 #### Relevant coursework
 
   - Automation of GIS
-      - Learned custom tool-building in ArcGIS, ArcPy, ArcGIS Model Builder, and designing tool interfaces
-      - Produced a tool in ArcPy and a tool interface that performed a suitability analysis on areas for traffic safety improvements
+    - Produced a custom suitability analysis ArcPy tool and interface 
+    - Used: ArcGIS, ArcPy, ArcGIS Model Builder
   - Urban Spatial Analysis
-      - Learned techniques such as spatial autocorrelation, hot-spot analysis, Local Moran’s I, Getis-Ord G*, geographically weighted regression, and Kriging analysis
-      - Produced a paper that analyzed social and environmental determinants of eviction risk in Alachua County
+    - Learned techniques such as spatial autocorrelation, hot-spot analysis, Local Moran’s I, Getis-Ord G*, geographically weighted regression, and Kriging analysis
+    - Produced a paper that analyzed social and environmental determinants of eviction risk in Alachua County
   - Web Mapping and Visualization
-      - Learned MapBox and ArcGIS Online tools such as Instant Apps, Story Maps, Dashboards, FieldMaps and Survey123, ArcGIS API for Javascript
-      - Produced several mini-projects, including one to map racial impacts of development and mapping informal foodsheds in Gainesville
+    - Learned tools: MapBox, ArcGIS Online - Instant Apps, Story Maps, Dashboards, FieldMaps and Survey123, ArcGIS API for Javascript
+    - Produced several mini-projects, such as racial impacts of development and informal foodsheds in Gainesville
 
 January 2022 - December 2022
 
@@ -133,6 +140,8 @@ January 2023 and ongoing
   - ideate financial products to ensure access to funds for vulnerable home-rich money-poor homeowners
   - work in R and SQL on parcel, sales, and web-scraped data
 
+May 2024 to August 2024
+
 ### Founder & Coordinator
 
 *at the [Gainesville Free Grocery Store](https://gnvfgs.org)*
@@ -150,27 +159,7 @@ January 2023 and ongoing
   - Provide assistance for Spanish translations and interpretation
   - Deliver food to over 350 people across more than 100 households
 
-March 2020 - December 2023
-
-### Contract Data Analyst
-
-#### Central Florida Fire Ecology
-
-- analyze effects of fire seasonality on phenology and vigor of Central Florida flatwoods species
-- implement dashboards in Shiny using R to create graphs and build tables
-- collect data on phenology and morphology in Central Florida flatwoods
-- identify and classify species based on morphology and taxonomy
-
-
-### City Plan Board
-
-*of the City of Gainesville*
-
-  - conduct quasi-judicial hearings surrounding variance and special use permitting
-  - advise City of Gainesville Commission on legislative issues
-  - undertake and present personal research on housing issues
-
-December 2022 and ongoing
+March 2020 to December 2023
 
 ### Campaign Coordinator
 
